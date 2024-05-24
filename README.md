@@ -1,7 +1,7 @@
-### Olá! Eu sou o Rafael Pereira 🤙🏽
-- 📌 Iniciante no ramo da Tecnologia
-- 👨🏽‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando HTML, CSS e JAVASCRIPT 
+### Hi devs! I'm Rafael Pereira and I feel happy to see you here 🤙🏽
+- 📌 Junior Developer
+- 👨🏽‍🎓 Graduated in Systems Analysis and Development
+- 🌱 Mobile Developer Flutter, Dart, Firebase | HTML, CSS e JAVASCRIPT 
 
 <div>
   <a href="https://github.com/rafaeIpereira">
